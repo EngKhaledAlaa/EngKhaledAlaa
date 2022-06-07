@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Khaled Alaa iam a civil engineer
 - 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Data Analysis With Udacity and finished the challanger track
+- 🌱 I’m currently learning Data Analysis With Udacity and finished the challanger and professional track
 - 📫 you can reach me at khaledalaazakaria@gmail.com
